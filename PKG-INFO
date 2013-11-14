@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: certografia
+Version: 0.1b
+Summary: Spell checker for Portuguese language.
+Home-page: http://edpittol.github.io
+Author: Eduardo Pittol
+Author-email: edpittol@gmail.com
+License: GPL
+Description: ===========
+        Certografia
+        ===========
+        
+        Spell checker for Portuguese language
+        
+        Use the function correctText(text) to correct a portuguese text. 
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Text Processing
